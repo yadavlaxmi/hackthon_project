@@ -1,0 +1,506 @@
+*{
+    box-sizing:border-box;
+
+}
+body{
+	margin:0px;
+}
+.row1{
+	border:solid 1px black;
+	height:60px;
+	width:100%;
+	margin:1px;
+	padding:0px 5px 0px 5px;
+	background-color: #171a1a;
+}
+.col1{
+	border: solid 0px black;
+    width: 115px;
+    float: left;
+    height: 50px;
+    padding: 1px 8px 0px 6px;
+    margin: 5px 0px 5px 10px;
+    cursor: pointer;
+    position:relative;
+    right:15px;
+}
+.col2{
+	border: solid 1px black;
+    width: 88px;
+    float: left;
+    height: 50px;
+    position:relative;
+    right:15px;
+	padding: 1px 8px 0px 6px;
+    margin: 5px 0px 5px 10px;
+    cursor: pointer;
+}
+.loct{
+	height: 60%;
+    position: relative;
+    top: 20px;
+    right: 5px;
+}
+.lp{
+	color: rgb(185, 175, 175);
+    position: relative;
+    bottom: 44px;
+    left: 17px;
+}
+.LH{
+	color: white;
+    position: relative;
+    bottom: 65px;
+    left: 19px;
+}
+.col3{
+	border: solid 0px black;
+    width: 666px;
+    float: left;
+    height: 50px;
+    position:relative;
+    right:15px;
+	padding: 1px 8px 0px 6px;
+    margin: 5px 0px 5px 10px;
+    cursor: pointer;
+
+}
+.input{
+	height: 40px;
+    width: 657px;
+    padding: 7px 10px 10px 0px;
+    border-radius: 6px;
+    padding: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-weight: normal;
+    font-size: 15px;
+}
+.opt:hover {
+    background-color: #E0E0E0;
+}
+.opt {
+    height: 35px;
+    width: 50px;
+    font-size: 13px;
+    font-weight: normal;
+    position: relative;
+    left: 3px;
+    bottom: 38px;
+    border: 1px black;
+    padding: 0px 0px 0px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.searchbar {
+    height: 45px;
+    padding: 9px 0px 3px 8px;
+    
+
+    width: 40px;
+    position:relative;
+    left:615px;
+    bottom:80px;
+}
+.col4{
+    border: solid 0px black;
+    width: 74px;
+    height: 49px;
+    position: relative;
+    right: 10px;
+    margin: 5px 2px 5px 9px;
+    float: left;
+    padding: 18px 5px 10px 13px;
+    cursor: pointer;
+}
+.usaflag {
+    height: 32px;
+    position: relative;
+    bottom: 10px;
+    right: 9px;
+}
+.opt2 {
+    height: 20px;
+    width: 30px;
+    float: right;
+    background-color: #171a1a;
+    color: white;
+    font-size: 7px;
+    font-weight: normal;
+    padding-bottom: 5px;
+    border: 0px white;
+    position: relative;
+    bottom: 30px;
+}
+.col5{
+	border: solid 0px black;
+    width: 131px;
+    height: 49px;
+    margin: 5px 3px 5px 0px;
+    float: left;
+    color: white;
+    padding: 10px 9px;
+    cursor: pointer;
+    position: relative;
+    left: 1px
+}
+.lp2 {
+    color: #DCDCDC;
+    position:relative;
+    bottom:20px;
+}
+.lh52{
+	position:relative;
+    bottom:45px;
+}
+.col6{
+	border: solid 0px black;
+    width: 88px;
+    float: left;
+    height: 50px;
+    position:relative;
+    right:1px;
+	padding: 1px 8px 0px 6px;
+    margin: 5px 0px 5px 10px;
+    cursor: pointer;
+}
+.lp3{
+	position:relative;
+    bottom:10px;
+    color:#DCDCDC;
+}
+.lh53{
+	position:relative;
+    bottom:35px;
+    color:white;
+}
+.col6{
+	border: solid 0px black;
+    width: 88px;
+    float: left;
+    height: 50px;
+    position:relative;
+    right:1px;
+	padding: 1px 8px 0px 6px;
+    margin: 5px 0px 5px 10px;
+    cursor: pointer;
+}
+.cart{
+	height:57%;
+	width:30px;
+	
+}
+.ch4{
+	position: relative;
+    bottom: 20px;
+    color: white;
+}
+.row2 {
+    background-color: #232f3e;
+    border: solid 0px rgb(255, 0, 0);
+    height: 40px;
+}
+.col8 {
+    border: solid 0px white;
+    height: 100%;
+    width: 77px;
+    float: left;
+    color: white;
+    cursor: pointer;
+    padding: 5px 5px;
+    margin: 0px 0px 0px 0px;
+ }
+.nav {
+    height: 30px;
+    position: relative;
+    bottom: 5px;
+    left: 5px;
+    top: 2px;
+}
+.lh43 
+{
+    float: right;
+    font-size: 14px;
+    position: relative;
+    bottom: 10px;
+}
+.col9 {
+    color: white;
+    font-size: 14px;
+    padding: 13px 0px 8px 8px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    height: 100%;
+    cursor: pointer;
+    width: 104px;
+    border: solid 0px white;
+    float: left;
+ }
+.lh44
+{
+	float:left;
+    font-size: 14px;
+    position: relative;
+    bottom: 24px;
+    color:white;
+}
+.col10
+{
+    color: white;
+    font-size: 14px;
+    padding: 13px 0px 8px 8px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    height: 100%;
+    cursor: pointer;
+    width: 104px;
+    border: solid 0px white;
+    float: left;
+ }
+.lh45
+{
+	float:left;
+    font-size: 14px;
+    position: relative;
+    bottom: 18px;
+    color:white;
+}
+.col11
+{
+    color: white;
+    font-size: 14px;
+    padding: 13px 0px 8px 8px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    height: 100%;
+    cursor: pointer;
+    width: 88px;
+    border: solid 0px white;
+    float: left;
+    position: relative;
+    right: 25px;
+ }
+.lh46{
+	float:left;
+    font-size: 14px;
+    position: relative;
+    bottom: 18px;
+    color:white;
+}
+.col12
+{
+    color: white;
+    font-size: 14px;
+    padding: 13px 0px 8px 8px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    height: 100%;
+    cursor: pointer;
+    width: 88px;
+    border: solid 0px white;
+    float: left;
+    position: relative;
+    right: 35px;
+ }
+ 
+ .col13
+{
+    color: white;
+    font-size: 14px;
+    padding: 13px 0px 8px 8px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    height: 100%;
+    cursor: pointer;
+    width: 88px;
+    border: solid 0px white;
+    float: left;
+    position: relative;
+    right: 35px;
+ }
+  .col14
+{
+    color: white;
+    font-size: 14px;
+    padding: 13px 0px 8px 8px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    height: 100%;
+    cursor: pointer;
+    border: solid 0px white;
+    float: right;
+    position: relative;
+    right: 35px;
+ }
+ 
+.row3{
+	border:solid 1px black;
+	height:300px;
+
+}
+.row3{
+	height:350px;
+}
+.col15{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:20px 15px 0px 15px;
+}
+.col16{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:20px 15px 0px 15px;
+}
+.col17{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:20px 15px 0px 15px;
+}
+.col18{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:20px 15px 0px 15px;
+}
+.row4{
+	height:350px;
+}
+.col19{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.col20{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.col21{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.col22{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.row5{
+	height:350px;
+}
+.col23{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.col24{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.col25{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.col26{
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.row6{
+	height:350px;
+}
+.col27{
+
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.col28{
+	
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.col29{
+
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.col30{
+	
+    float:right;
+    height:320px;
+    width:25%;
+    font-size:0px;
+    padding:0px 15px 0px 15px;
+}
+.row7{
+	
+	height:300px;
+}
+.row8{
+	border:solid 1px black;
+	height:100px;
+}
+.row9{
+	display: block;
+    text-align: center;
+    color:white;
+    padding: 15px 0;
+    line-height: 19px;
+    font-size: 13px;
+    background-color:#0f1f3d;
+}
+
+
+.row10{
+    height: 300px;
+    background-color: #232f3e;
+    border:  solid 0px red;
+}
+.footer{
+    height: 65%;
+    width: 75%;
+    position: relative;
+    top: 40px;
+    left: 160px;
+}
+.footer1{
+    float: left;
+    margin: 10px 20px;
+    color: white;
+    list-style-type: none;
+    cursor: pointer;
+
+}
+.li{
+    color:#DDDDDD;
+    line-height: 120%;
+}
+
